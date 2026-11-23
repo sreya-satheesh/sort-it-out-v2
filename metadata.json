@@ -1,0 +1,6 @@
+{
+  "name": "Sort It Out!",
+  "description": "An interactive playground for learning Bubble Sort, Selection Sort, and Insertion Sort through playful movement and hands-on exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
